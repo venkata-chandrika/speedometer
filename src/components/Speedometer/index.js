@@ -32,7 +32,7 @@ class Speedometer extends Component {
           className="image"
           alt="speedometer"
         />
-        <p className="speed">Speed is {count}mph</p>
+        <h1 className="speed">Speed is {count}mph</h1>
         <p className="text"> Min Limit is 0mph, Max Limit is 200mph</p>
         <div className="btn-container">
           <button
